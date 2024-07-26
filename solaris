@@ -1,1 +1,6 @@
 #Solaris,faces various cybersecurity threats from different types of threat actors.
+#Nation-State Actors
+#Nation-state actors are highly sophisticated, well-funded groups often associated with government agencies. Their primary objectives include espionage, disruption, and information theft to further their national interests.
+- Advanced Persistent Threats (APTs): Nation-state actors can deploy APTs to gain prolonged access to Solaris systems, exfiltrating sensitive data over time.
+#Example
+APT29 (Cozy Bear): Associated with Russian intelligence, this group is known for targeting government, diplomatic, and technological sectors.
