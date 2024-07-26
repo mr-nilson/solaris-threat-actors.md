@@ -4,3 +4,40 @@
 - Advanced Persistent Threats (APTs): Nation-state actors can deploy APTs to gain prolonged access to Solaris systems, exfiltrating sensitive data over time.
 #Example
 APT29 (Cozy Bear): Associated with Russian intelligence, this group is known for targeting government, diplomatic, and technological sectors.
+#Cybercriminals
+Description
+Cybercriminals are motivated by financial gain. They employ a variety of tactics, including malware, ransomware, and phishing, to steal money, data, or disrupt services for a ransom.
+
+Risks to Solaris
+Ransomware Attacks: Cybercriminals can deploy ransomware to encrypt data on Solaris systems, demanding payment for decryption keys.
+Data Theft: Through various malware types, these actors can steal sensitive data such as personal information, financial records, and proprietary business information.
+Example
+DarkSide: A notorious ransomware group known for attacking high-profile targets and demanding significant ransoms.
+#Hacktivists
+Description
+Hacktivists are driven by ideological or political beliefs. They aim to disrupt or deface systems to promote their causes or protest against organizations or governments they oppose.
+
+Risks to Solaris
+Denial of Service (DoS) Attacks: Hacktivists might target Solaris systems with DoS attacks to disrupt services and draw attention to their causes.
+Defacement: They may deface websites or other online assets running on Solaris to spread their message.
+Example
+Anonymous: A decentralized international hacktivist group known for launching cyber-attacks against government, corporate, and religious websites.
+#Insiders
+Description
+Insiders are individuals within an organization who have authorized access to its systems and data. They can pose a significant threat due to their legitimate access and knowledge of internal processes.
+
+Risks to Solaris
+Data Leaks: Insiders might intentionally or unintentionally leak sensitive data.
+Sabotage: Disgruntled employees could sabotage Solaris systems by deleting or corrupting data, or by introducing malware.
+Example
+Edward Snowden: A former NSA contractor who leaked classified information, illustrating the potential impact of insider threats.
+#Script Kiddies
+Description
+Script kiddies are inexperienced hackers who use pre-written scripts or tools to launch attacks, often without fully understanding how they work. Their motivations range from curiosity to a desire to prove their skills.
+
+Risks to Solaris
+Exploiting Known Vulnerabilities: Script kiddies often exploit publicly disclosed vulnerabilities that have not yet been patched.
+Website Defacements and Minor DoS Attacks: These actors might engage in website defacements or launch minor DoS attacks, causing disruptions and potential reputational damage.
+Example
+Various Anonymous Affiliates: While the main Anonymous group can be sophisticated, many affiliated individuals are script kiddies seeking recognition.
+#
